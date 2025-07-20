@@ -18,7 +18,7 @@ public class LoginPage extends BasePage {
 
     // Actions
     public void navigate() {
-        navigateTo("https://the-internet.herokuapp.com/login");
+        navigateTo("https://demoqa.com/automation-practice-form");
     }
 
     public void login(String username, String password) {
