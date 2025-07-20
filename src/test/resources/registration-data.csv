@@ -1,0 +1,3 @@
+firstName,lastName,email,gender,mobile,dob,subject,hobby,address,state,city
+Nguyen,Van A,nguyenvana@example.com,Male,0912345678,"10 Jan 2000",Maths,Sports,"123 Đường ABC, Quận 1, TP.HCM",NCR,Delhi
+Tran,Thi B,tranthib@example.com,Female,0987654321,"20 Feb 1999",English,Reading,"456 Đường XYZ, Quận 3, TP.HCM",Uttar Pradesh,Agra 
